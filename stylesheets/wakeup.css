@@ -1,0 +1,9 @@
+.black , .palm-dark{ height:auto; }
+
+body.my-dark-backdrop { background: url(../images/AndroidShowTime_fond1.jpg) center top; }
+body.my-light-backdrop { background: url(../images/cineshowtime_fond_light.jpg) center top; }
+
+.palm-dark .label_field { font-weight:bold; color:#ff0000;}
+.palm-light .label_field { font-weight:bold; color:#990000;}     
+
+
