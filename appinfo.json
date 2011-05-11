@@ -1,0 +1,12 @@
+{
+	"id": "com.binomed.wakeup",
+	"version": "0.0.1",
+	"vendor": "Binomed",
+	"type": "web",
+	"main": "index.html",
+	"title": "Wake Up !",
+	"icon": "icon.png",
+	"removable": true,
+	"copyright": "© 2011 - Binomed",
+	"licence": "GNU General Public License v2"
+}
